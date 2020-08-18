@@ -19,3 +19,4 @@ if __name__ == "__main__":
     print(count_iterateve(123))
     print(count_recursive(54321))
     print(count_constant(123945645))
+    print(len(str(123)))#using inbuilt python function
